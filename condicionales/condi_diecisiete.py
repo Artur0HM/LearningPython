@@ -34,4 +34,4 @@ elif operaciones == 4:
     
 else:
     print("Debes elegir una opción correcta.")
-    # corregir el bug 
+    # corregir el bug
